@@ -58,19 +58,19 @@ puis insertion avec parsing des champs.
 ### 5. Analyses (05_analyses.sql)
 
 #### Analyse 1 — Top 10 titres par industrie
-![Top 10 Titres](screenshots/01_top10_titres.png)
+![Top 10 Titres](screenshots/Analyse%20des%20offres%20d'emploi.png)
 
 #### Analyse 2 — Top 10 salaires par industrie
-![Top 10 Salaires](screenshots/02_top10_salaires.png)
+![Top 10 Salaires](screenshots/10%20postes%20les%20mieux%20rémunérés.png)
 
 #### Analyse 3 — Répartition par taille d'entreprise
-![Taille Entreprise](screenshots/03_taille_entreprise.png)
+![Taille Entreprise](screenshots/Taille%20entreprise.png)
 
 #### Analyse 4 — Répartition par secteur d'activité
-![Secteurs](screenshots/04_secteurs.png)
+![Secteurs](screenshots/secteur%20d'activité.png)
 
 #### Analyse 5 — Répartition par type d'emploi
-![Type Emploi](screenshots/05_type_emploi.png)
+![Type Emploi](screenshots/types%20d'emploi.png)
 
 ---
 
